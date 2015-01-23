@@ -1,3 +1,4 @@
+Updated readme.txt to show new feature foo foo
 === Bearded ===
 Theme Name: Bearded
 Theme URI: http://bonfirelab.com/themes/bearded
