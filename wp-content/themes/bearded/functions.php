@@ -1,4 +1,5 @@
 <?php
+/** Added new feature foo foo for beard theme */
 /**
  * The functions file is used to initialize everything in the theme.  It controls how the theme is loaded and 
  * sets up the supported features, default actions, and default filters.  If making customizations, users 
